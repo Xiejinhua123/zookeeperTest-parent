@@ -5,11 +5,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * @author  xiejinhua
+ * @date 2019-04-12
+ * @version 1.0
+ *
  */
 public interface StudentService {
-
 	/**
-	 * 执行登陆
+	 * 执行登录操作
 	 * @return
 	 * 		执行结果
 	 * @throws Exception
