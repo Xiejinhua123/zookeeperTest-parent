@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * @author  xiejinhua
+ * @version 2.0
  */
 public interface StudentService {
 
